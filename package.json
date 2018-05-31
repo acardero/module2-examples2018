@@ -1,0 +1,24 @@
+{
+  "name": "module2-examples2018",
+  "version": "1.0.0",
+  "description": "Class notes",
+  "main": "test.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cows": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acardero/module2-examples2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acardero/module2-examples2018/issues"
+  },
+  "homepage": "https://github.com/acardero/module2-examples2018#readme"
+}
